@@ -3,7 +3,7 @@
 
 Running a business comes with many responsibilities and risks. From property damage and workplace accidents to unexpected financial losses, business owners need to be prepared for situations that could affect their operations. **Business Insurance** plays an important role in protecting businesses against various risks and providing financial security.
 
-## What Is Business Insurance?
+## What Is Business Insurance
 
 Business insurance is a type of financial protection designed to help businesses manage unexpected losses. Depending on the policy, it can cover risks related to property damage, public liability, business interruption, equipment, and other operational challenges.
 
